@@ -8,7 +8,7 @@ const testimonials = [
     name: "Ahmed Khan",
     role: "Home Buyer",
     message:
-      "Madina Real Estate helped me find my dream home in Peshawar. The team was professional, patient, and got me the best deal. Highly recommended!",
+      "MHP Consultants helped me find my dream home in Peshawar. The team was professional, patient, and got me the best deal. Highly recommended!",
     rating: 5,
   },
   {
