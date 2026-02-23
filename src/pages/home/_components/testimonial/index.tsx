@@ -89,7 +89,7 @@ const Testimonial = () => {
           </h2>
           <p className="text-gray-500 mt-3 max-w-xl mx-auto">
             Real stories from real clients who bought, sold, and designed with
-            Madina Real Estate & Design.
+            MHP Consultants
           </p>
         </motion.div>
 
