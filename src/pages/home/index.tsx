@@ -24,7 +24,7 @@ const HomePage = memo(function HomePage() {
     <div>
       <Banner
         images={bannerImages}
-        title="Welcome to Madina Real Estate & Design"
+        title="Welcome to MHP Consultant"
         description="Your trusted partner for buying and selling properties, and transforming spaces with stunning interior and exterior design. Find your dream home or create the perfect environment with us."
       />
       <img src={images.home.shopFront} alt="" className="w-full sm:h-[60vh]" />
