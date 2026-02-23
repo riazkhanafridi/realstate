@@ -136,13 +136,13 @@ const ProductDetails = memo(function ProductDetails() {
           {/* CTA Buttons */}
           <div className="flex gap-4">
             <a
-              href="tel:+923359353533"
+              href="tel:+923473283510"
               className="flex-1 flex items-center justify-center gap-2 bg-primary text-white font-semibold py-3 rounded-xl hover:bg-opacity-90 transition"
             >
               <FaPhoneAlt /> Call Agent
             </a>
             <a
-              href="https://wa.me/923359353533"
+              href="https://wa.me/923473283510"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 flex items-center justify-center gap-2 bg-green-500 text-white font-semibold py-3 rounded-xl hover:bg-green-600 transition"
