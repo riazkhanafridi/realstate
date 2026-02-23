@@ -9,7 +9,7 @@ const AboutPage = memo(function AboutPage() {
     <>
       <Banner
         title="About Us"
-        description="Madina Real Estate & Design is your trusted partner for buying, selling, and designing properties in Peshawar and beyond. With years of experience and a passionate team, we deliver exceptional results for every client."
+        description="MHP Consultant is your trusted partner for buying, selling, and designing properties in Peshawar and beyond. With years of experience and a passionate team, we deliver exceptional results for every client."
         images={[images.home.aboutHero]}
       />
       <About />
