@@ -21,7 +21,7 @@ const About = memo(function About() {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.7, delay: 0.2 }}
         >
-          Welcome to Madina Real Estate & Design — your trusted partner for
+          Welcome to MHP Consultants— your trusted partner for
           buying, selling, and designing properties. Founded by Engineer Shahab
           Afridi, we specialize in residential and commercial real estate,
           as well as stunning interior and exterior design solutions. Whether
