@@ -38,7 +38,7 @@ const Banner = memo(function Banner(props: TBannerProps) {
       <header className="h-24 sm:h-32 flex items-center z-30 w-full">
         <div className="container mx-auto px-6 flex items-center justify-between">
           <div className="uppercase text-gray-800 dark:text-white font-black text-sm md:text-xl">
-            Madina Real Estate & Design
+            MHP Consultant
           </div>
           <div className="flex items-center">
             {/* Desktop Menu */}
