@@ -38,7 +38,7 @@ const Footer = memo(function Footer() {
               animate={{ opacity: 1 }}
               transition={{ duration: 0.5 }}
             >
-              Madina Real Estate & Design
+            MHP Consultants 
             </motion.h3>
             <motion.p
               className="text-base"
@@ -46,7 +46,7 @@ const Footer = memo(function Footer() {
               animate={{ opacity: 1 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              Madina Real Estate & Design offers expert property buying, selling,
+              MHP Consultants offers expert property buying, selling,
               and stunning interior & exterior design services. Founded by
               Engineer Shahab Afridi, we are committed to finding your perfect
               property and creating beautiful spaces.
@@ -112,7 +112,7 @@ const Footer = memo(function Footer() {
             </div>
             <div className="flex items-center gap-x-2">
               <MdEmail />
-              <p>madina@realestatedesign.com</p>
+              <p>shahabafridi824@gmail,com</p>
             </div>
           </div>
 
@@ -122,8 +122,7 @@ const Footer = memo(function Footer() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            Address: Khalid shopping plaza shop no 5 block A karkhano market
-            industrial area jamrud road peshawar
+            Address: 91 plaza near Gul Haji plaza University Road Peshawar
           </motion.p>
         </div>
       </div>
